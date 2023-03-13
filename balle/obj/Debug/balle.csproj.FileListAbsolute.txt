@@ -1,0 +1,13 @@
+C:\Users\dallon\source\repos\balle\bin\Debug\balle.exe.config
+C:\Users\dallon\source\repos\balle\bin\Debug\balle.exe
+C:\Users\dallon\source\repos\balle\bin\Debug\balle.pdb
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.csproj.AssemblyReference.cache
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.csproj.SuggestedBindingRedirects.cache
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.Fm_principal.resources
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.Properties.Resources.resources
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.Balle1.resources
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.csproj.GenerateResource.cache
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.csproj.CoreCompileInputs.cache
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.exe
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.pdb
+C:\Users\dallon\source\repos\balle\obj\Debug\balle.Raquette.resources
